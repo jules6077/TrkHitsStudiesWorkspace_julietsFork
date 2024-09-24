@@ -21,7 +21,8 @@
     <processor name="InnerPlanarRealisticDigi"/>
     <processor name="InnerEndcapRealisticDigi"/>
     <processor name="OuterPlanarRealisticDigi"/>
-    <processor name="OTEndcapDigitiser"/>
+    <processor name="OuterEndcapRealisticDigi"/>
+    <!--processor name="OTEndcapDigitiser"/-->
 
     <!-- ========== Output ========== -->
     <processor name="LCIOWriter_all"/>
